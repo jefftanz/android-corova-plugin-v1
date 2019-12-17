@@ -1,6 +1,6 @@
 
 # Cordova Plugin Example
-An ionic cordova android plugin example
+An ionic cordova android plugin example. Testing Dependencies.
 
 
 # Requirements
