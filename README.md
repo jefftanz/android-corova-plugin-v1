@@ -39,3 +39,4 @@ If you make changes to the plugin and want to test the latest code in the Ionic 
   })
 
 # android-cordova-plugin
+# android-corova-plugin-v1
