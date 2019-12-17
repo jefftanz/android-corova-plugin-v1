@@ -38,5 +38,4 @@ If you make changes to the plugin and want to test the latest code in the Ionic 
       console.log('Error' + err);
   })
 
-# android-cordova-plugin
 # android-corova-plugin-v1
